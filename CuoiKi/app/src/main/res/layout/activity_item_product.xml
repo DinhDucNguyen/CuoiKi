@@ -1,0 +1,68 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="#FFFFFF"
+    android:layout_margin="8dp"
+    android:elevation="2dp">
+
+    <!-- Hình ảnh sản phẩm -->
+    <ImageView
+        android:id="@+id/product_image"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/product" />
+
+    <!-- Thông tin người bán -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="8dp">
+
+        <TextView
+            android:id="@+id/seller_info"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Seller Information"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <!-- Biểu tượng giỏ hàng và yêu thích -->
+        <ImageView
+            android:id="@+id/cart_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_product"
+            android:layout_marginEnd="8dp" />
+
+        <ImageView
+            android:id="@+id/favorite_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/save" />
+    </LinearLayout>
+
+    <!-- Tên sản phẩm -->
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Name"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:paddingTop="8dp"
+        android:paddingBottom="4dp" />
+
+    <!-- Mô tả sản phẩm -->
+    <TextView
+        android:id="@+id/product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is a short description of the product."
+        android:textColor="@android:color/darker_gray"
+        android:paddingBottom="8dp" />
+</LinearLayout>

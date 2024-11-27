@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_cart.xml">
+        <config>
+          <theme>@style/Theme.MyApplication2</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_comment.xml">
+        <config>
+          <theme>@style/Theme.MyApplication2</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+        <config>
+          <theme>@style/Theme.MyApplication2</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_like.xml">
+        <config>
+          <theme>@style/Theme.MyApplication2</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_menu.xml">
+        <config>
+          <theme>@style/Theme.MyApplication2</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae0364b0-0cdb-4d2a-99da-cc8573002f04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ContentProvider/app/src/main/java/com/ducdinh/DanhBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ContentProvider/app/src/main/java/com/ducdinh/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ContentProvider/app/src/main/res/drawable/bg_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ContentProvider/app/src/main/res/layout/activity_danh_ba.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/java/com/example/customlistviewapp/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/java/com/example/customlistviewapp/CustomAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/java/com/example/customlistviewapp/popup_confirm_delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/java/com/example/customlistviewapp/recycleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/drawable/ic_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/drawable/item_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/drawable/popup_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/drawable/trashcan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/layout/activity_popup_confirm_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomListViewApp/app/src/main/res/layout/row_recycleview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/AddCountryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/CountryListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/ModifyCountryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/java/com/example/demosqlite/activity_add_record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/res/layout/activity_add_record.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/res/layout/activity_modify_record.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoSQLite/app/src/main/res/layout/fragment_emp_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.2.Cài đặt và triển khai ADDS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/java/com/example/bottomnavigation/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/java/com/example/bottomnavigation/ProfileFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/java/com/example/bottomnavigation/settingFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/drawable/baseline_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/drawable/baseline_person_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/drawable/baseline_settings_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/layout/fragment_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BottomNavigation/app/src/main/res/menu/bottomnavigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/androidTest/java/com/example/namebaseadapter/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/java/com/example/namebaseadapter/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/java/com/example/namebaseadapter/NameAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/app/src/test/java/com/example/namebaseadapter/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NamebaseAdapter/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/androidTest/java/com/example/nguyendinhduc2102/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/java/com/example/nguyendinhduc2102/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/icon_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/ig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/login_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/drawable/rounded_corner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/app/src/test/java/com/example/nguyendinhduc2102/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NguyenDinhDuc2102/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/androidTest/java/com/example/signinsingup/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/java/com/example/signinsingup/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/java/com/example/signinsingup/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/java/com/example/signinsingup/registerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/baseline_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/baseline_person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/baseline_security.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/bgg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/btn_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/fbbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/gg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/ig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/drawable/input_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/layout/activity_login2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/app/src/test/java/com/example/signinsingup/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SignInSIngUp/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/java/com/example/tablayout_bottomnavigation/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/java/com/example/tablayout_bottomnavigation/fragment_home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/java/com/example/tablayout_bottomnavigation/profile_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/color/custom_color_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/drawable/account1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/drawable/home11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tablayout_bottomNavigation/app/src/main/res/menu/menu_bottom_navigation.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\MSI\.android\avd\Pixel_6a_API_35.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application2" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application2" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application2" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DinhDucNguyen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DinhDucNguyen/BottomNavigation.git&quot;,
+    &quot;accountId&quot;: &quot;1fd9c019-b1ca-44b1-8546-fe060218151d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pOCIC0mcxSfy5ANpeJAprhKaTo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/HKI_nam3/Android_Trenlop/NguyenDinhDuc/NguyenDinhDuc"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="My_Application2.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0364b0-0cdb-4d2a-99da-cc8573002f04" name="Changes" comment="" />
+      <created>1732627653036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732627653036</updated>
+    </task>
+    <servers />
+  </component>
+</project>
